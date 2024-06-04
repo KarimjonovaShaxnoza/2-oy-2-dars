@@ -1,0 +1,51 @@
+table, th, tr, td {
+    text-align: center  ;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    width: 600px;
+    height: 200px;
+}
+
+.sarlavha{
+    background-color: yellow;
+    height: 30px;
+}
+.John{
+    background-color:red;
+    color: white;
+}
+.Jane{
+    background-color: red;
+    color: white;
+}
+.text{
+    text-align: center;
+}
+.Bob{
+    background-color: red;
+    color: white;
+}
+
+td:nth-child(1) {
+    background-color: white;
+    color:black;
+}
+td:nth-child(4) {
+    background-color: green;
+}
+
+h4{
+    background-color: aqua;
+    
+    width: 600px; 
+    margin: 0;
+}
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

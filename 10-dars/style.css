@@ -1,0 +1,29 @@
+form {
+    width: 600px;
+    background-color: black;
+    margin: 0 auto;
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px;
+}
+label, p {
+    color: yellow;
+    font-size: 30px;
+}
+input {
+    width: 250px;
+    padding: 15px 5px;
+    border-radius: 20px;
+}
+button {
+    width: 200px;
+    background-color: green;
+    color: white;
+    border-radius: 5x;
+    border: none;
+}
+h1 {
+    color:black;
+    background-color:burlywood;
+    text-align: center;
+}

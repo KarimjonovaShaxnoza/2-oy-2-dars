@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  color: white;
+  background-color: green;
+  border-radius: 30px;
+  border: 4px solid red;
+}
+.first_text {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 22px;
+}
+.second_text {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.Logo_img {
+   text-align: center;
+}
+.Logo_img img {
+  width: 100px;
+}

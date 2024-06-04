@@ -1,0 +1,35 @@
+h1{
+    color:black;
+    background-color: rgb(43, 255, 244);
+    text-align: center;
+    font-size: 56;
+    border-radius: 40px;
+ }
+ 
+ h1 span {
+     color: yellow;
+     background-color: black;
+     border-radius: 10px;
+     border: 2px solid red;
+ }
+ 
+ 
+ .bg-black {
+     text-align:center;
+     background-color:black;
+     padding-bottom: 10px;
+     border-top-right-radius: 35px;
+     border-bottom-left-radius: 35px;
+ }
+ 
+ 
+ .bg-white-text {
+     background-color: rgb(188, 229, 243);
+     font-size:25px;
+     border-radius: 20px;
+ }
+ 
+ 
+  > .css-text {
+     color:red;
+ }    

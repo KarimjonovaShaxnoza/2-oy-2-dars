@@ -1,0 +1,35 @@
+table, tr, th, td {
+    border: 3px solid blue;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 35px;
+}
+table {
+    width: 800px;
+}
+caption {
+    background-color: yellow;
+}
+th {
+    background-color:black;
+    color: white;
+}
+.bg-orange {
+    background-color: orange;
+}
+.bg-green {
+    background-color: green;
+    color:white;
+}
+.bg-red {
+    background-color:red;
+    color:white;
+}
+.bg-black {
+    background-color: black;
+    color:white;
+}
+.bg-yellow {
+    background-color: yellow;
+    color:black;
+}
