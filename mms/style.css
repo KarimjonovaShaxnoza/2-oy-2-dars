@@ -1,0 +1,15 @@
+h1 {
+    color:white;
+    background-color: blueviolet;
+    border-radius: 25px;
+    text-align: center;
+    padding: 15px 15px;
+    font-size: 50px;
+}
+.table, th, tr, td {
+    color:black;
+    background-color: aqua;
+    heihgt: 20px;
+    width: 80px;
+    margin:0 auto;
+
